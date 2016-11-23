@@ -1,0 +1,300 @@
+{
+    "u'resultPopularityDTOs'": [
+        {
+            "u'eventId'": "u'0'",
+            "u'away'": false,
+            "u'awdPercentage'": 7669,
+            "u'tie'": false,
+            "u'home'": true,
+            "u'percentage'": 8142
+        },
+        {
+            "u'eventId'": "u'0'",
+            "u'away'": false,
+            "u'awdPercentage'": 1193,
+            "u'tie'": true,
+            "u'home'": false,
+            "u'percentage'": 1055
+        },
+        {
+            "u'eventId'": "u'0'",
+            "u'away'": true,
+            "u'awdPercentage'": 1137,
+            "u'tie'": false,
+            "u'home'": false,
+            "u'percentage'": 802
+        },
+        {
+            "u'eventId'": "u'1'",
+            "u'away'": false,
+            "u'awdPercentage'": 4753,
+            "u'tie'": false,
+            "u'home'": true,
+            "u'percentage'": 4938
+        },
+        {
+            "u'eventId'": "u'1'",
+            "u'away'": false,
+            "u'awdPercentage'": 2989,
+            "u'tie'": true,
+            "u'home'": false,
+            "u'percentage'": 2999
+        },
+        {
+            "u'eventId'": "u'1'",
+            "u'away'": true,
+            "u'awdPercentage'": 2257,
+            "u'tie'": false,
+            "u'home'": false,
+            "u'percentage'": 2061
+        },
+        {
+            "u'eventId'": "u'2'",
+            "u'away'": false,
+            "u'awdPercentage'": 3795,
+            "u'tie'": false,
+            "u'home'": true,
+            "u'percentage'": 3971
+        },
+        {
+            "u'eventId'": "u'2'",
+            "u'away'": false,
+            "u'awdPercentage'": 2882,
+            "u'tie'": true,
+            "u'home'": false,
+            "u'percentage'": 2848
+        },
+        {
+            "u'eventId'": "u'2'",
+            "u'away'": true,
+            "u'awdPercentage'": 3321,
+            "u'tie'": false,
+            "u'home'": false,
+            "u'percentage'": 3180
+        },
+        {
+            "u'eventId'": "u'3'",
+            "u'away'": false,
+            "u'awdPercentage'": 3772,
+            "u'tie'": false,
+            "u'home'": true,
+            "u'percentage'": 3189
+        },
+        {
+            "u'eventId'": "u'3'",
+            "u'away'": false,
+            "u'awdPercentage'": 2541,
+            "u'tie'": true,
+            "u'home'": false,
+            "u'percentage'": 2669
+        },
+        {
+            "u'eventId'": "u'3'",
+            "u'away'": true,
+            "u'awdPercentage'": 3685,
+            "u'tie'": false,
+            "u'home'": false,
+            "u'percentage'": 4141
+        },
+        {
+            "u'eventId'": "u'4'",
+            "u'away'": false,
+            "u'awdPercentage'": 5346,
+            "u'tie'": false,
+            "u'home'": true,
+            "u'percentage'": 5565
+        },
+        {
+            "u'eventId'": "u'4'",
+            "u'away'": false,
+            "u'awdPercentage'": 2952,
+            "u'tie'": true,
+            "u'home'": false,
+            "u'percentage'": 2903
+        },
+        {
+            "u'eventId'": "u'4'",
+            "u'away'": true,
+            "u'awdPercentage'": 1700,
+            "u'tie'": false,
+            "u'home'": false,
+            "u'percentage'": 1531
+        },
+        {
+            "u'eventId'": "u'5'",
+            "u'away'": false,
+            "u'awdPercentage'": 7297,
+            "u'tie'": false,
+            "u'home'": true,
+            "u'percentage'": 7641
+        },
+        {
+            "u'eventId'": "u'5'",
+            "u'away'": false,
+            "u'awdPercentage'": 1317,
+            "u'tie'": true,
+            "u'home'": false,
+            "u'percentage'": 1200
+        },
+        {
+            "u'eventId'": "u'5'",
+            "u'away'": true,
+            "u'awdPercentage'": 1384,
+            "u'tie'": false,
+            "u'home'": false,
+            "u'percentage'": 1158
+        },
+        {
+            "u'eventId'": "u'6'",
+            "u'away'": false,
+            "u'awdPercentage'": 5524,
+            "u'tie'": false,
+            "u'home'": true,
+            "u'percentage'": 5684
+        },
+        {
+            "u'eventId'": "u'6'",
+            "u'away'": false,
+            "u'awdPercentage'": 2635,
+            "u'tie'": true,
+            "u'home'": false,
+            "u'percentage'": 2585
+        },
+        {
+            "u'eventId'": "u'6'",
+            "u'away'": true,
+            "u'awdPercentage'": 1839,
+            "u'tie'": false,
+            "u'home'": false,
+            "u'percentage'": 1729
+        },
+        {
+            "u'eventId'": "u'7'",
+            "u'home'": true,
+            "u'away'": false,
+            "u'percentage'": 6607,
+            "u'tie'": false
+        },
+        {
+            "u'eventId'": "u'7'",
+            "u'home'": false,
+            "u'away'": false,
+            "u'percentage'": 1894,
+            "u'tie'": true
+        },
+        {
+            "u'eventId'": "u'7'",
+            "u'home'": false,
+            "u'away'": true,
+            "u'percentage'": 1497,
+            "u'tie'": false
+        },
+        {
+            "u'eventId'": "u'8'",
+            "u'home'": true,
+            "u'away'": false,
+            "u'percentage'": 3788,
+            "u'tie'": false
+        },
+        {
+            "u'eventId'": "u'8'",
+            "u'home'": false,
+            "u'away'": false,
+            "u'percentage'": 3177,
+            "u'tie'": true
+        },
+        {
+            "u'eventId'": "u'8'",
+            "u'home'": false,
+            "u'away'": true,
+            "u'percentage'": 3033,
+            "u'tie'": false
+        },
+        {
+            "u'eventId'": "u'9'",
+            "u'home'": true,
+            "u'away'": false,
+            "u'percentage'": 5722,
+            "u'tie'": false
+        },
+        {
+            "u'eventId'": "u'9'",
+            "u'home'": false,
+            "u'away'": false,
+            "u'percentage'": 2151,
+            "u'tie'": true
+        },
+        {
+            "u'eventId'": "u'9'",
+            "u'home'": false,
+            "u'away'": true,
+            "u'percentage'": 2125,
+            "u'tie'": false
+        },
+        {
+            "u'eventId'": "u'10'",
+            "u'home'": true,
+            "u'away'": false,
+            "u'percentage'": 5605,
+            "u'tie'": false
+        },
+        {
+            "u'eventId'": "u'10'",
+            "u'home'": false,
+            "u'away'": false,
+            "u'percentage'": 2546,
+            "u'tie'": true
+        },
+        {
+            "u'eventId'": "u'10'",
+            "u'home'": false,
+            "u'away'": true,
+            "u'percentage'": 1848,
+            "u'tie'": false
+        },
+        {
+            "u'eventId'": "u'11'",
+            "u'home'": true,
+            "u'away'": false,
+            "u'percentage'": 3531,
+            "u'tie'": false
+        },
+        {
+            "u'eventId'": "u'11'",
+            "u'home'": false,
+            "u'away'": false,
+            "u'percentage'": 2905,
+            "u'tie'": true
+        },
+        {
+            "u'eventId'": "u'11'",
+            "u'home'": false,
+            "u'away'": true,
+            "u'percentage'": 3562,
+            "u'tie'": false
+        },
+        {
+            "u'eventId'": "u'12'",
+            "u'home'": true,
+            "u'away'": false,
+            "u'percentage'": 3980,
+            "u'tie'": false
+        },
+        {
+            "u'eventId'": "u'12'",
+            "u'home'": false,
+            "u'away'": false,
+            "u'percentage'": 2994,
+            "u'tie'": true
+        },
+        {
+            "u'eventId'": "u'12'",
+            "u'home'": false,
+            "u'away'": true,
+            "u'percentage'": 3025,
+            "u'tie'": false
+        }
+    ],
+    "u'suppoTimestamp'": 1479929379000,
+    "u'exchange'": 8435039
+}

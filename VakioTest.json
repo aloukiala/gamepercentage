@@ -1,0 +1,851 @@
+{
+    "u'status'": "u'OPEN'",
+    "u'openTime'": 1479700800000,
+    "u'rows'": [
+        {
+            "u'eventId'": "u'89318633'",
+            "u'tvChannel'": "u'Viasat'",
+            "u'outcome'": {
+                "u'home'": {
+                    "u'id'": "u'Liverpool'",
+                    "u'name'": "u'Liverpool'"
+                },
+                "u'away'": {
+                    "u'id'": "u'Sunderl.'",
+                    "u'name'": "u'Sunderland'"
+                }
+            },
+            "u'id'": "u'0'",
+            "u'additionalPrizeTier'": true
+        },
+        {
+            "u'eventId'": "u'89318632'",
+            "u'outcome'": {
+                "u'home'": {
+                    "u'id'": "u'Leicester'",
+                    "u'name'": "u'Leicester'"
+                },
+                "u'away'": {
+                    "u'id'": "u'Middlesbr'",
+                    "u'name'": "u'Middlesbrough'"
+                }
+            },
+            "u'id'": "u'1'",
+            "u'additionalPrizeTier'": true
+        },
+        {
+            "u'eventId'": "u'89318634'",
+            "u'outcome'": {
+                "u'home'": {
+                    "u'id'": "u'Swansea'",
+                    "u'name'": "u'Swansea'"
+                },
+                "u'away'": {
+                    "u'id'": "u'Crystal P'",
+                    "u'name'": "u'Crystal P'"
+                }
+            },
+            "u'id'": "u'2'",
+            "u'additionalPrizeTier'": true
+        },
+        {
+            "u'eventId'": "u'89318635'",
+            "u'outcome'": {
+                "u'home'": {
+                    "u'id'": "u'Hull'",
+                    "u'name'": "u'Hull'"
+                },
+                "u'away'": {
+                    "u'id'": "u'West Brom'",
+                    "u'name'": "u'West Bromwich'"
+                }
+            },
+            "u'id'": "u'3'",
+            "u'additionalPrizeTier'": true
+        },
+        {
+            "u'eventId'": "u'89319319'",
+            "u'tvChannel'": "u'Viasat'",
+            "u'outcome'": {
+                "u'home'": {
+                    "u'id'": "u'Chelsea'",
+                    "u'name'": "u'Chelsea'"
+                },
+                "u'away'": {
+                    "u'id'": "u'Tottenham'",
+                    "u'name'": "u'Tottenham'"
+                }
+            },
+            "u'id'": "u'4'",
+            "u'additionalPrizeTier'": true
+        },
+        {
+            "u'eventId'": "u'89318746'",
+            "u'outcome'": {
+                "u'home'": {
+                    "u'id'": "u'Newcastle'",
+                    "u'name'": "u'Newcastle U'"
+                },
+                "u'away'": {
+                    "u'id'": "u'Blackburn'",
+                    "u'name'": "u'Blackburn'"
+                }
+            },
+            "u'id'": "u'5'",
+            "u'additionalPrizeTier'": true
+        },
+        {
+            "u'eventId'": "u'89318641'",
+            "u'outcome'": {
+                "u'home'": {
+                    "u'id'": "u'Aston V'",
+                    "u'name'": "u'Aston Villa'"
+                },
+                "u'away'": {
+                    "u'id'": "u'Cardiff'",
+                    "u'name'": "u'Cardiff C'"
+                }
+            },
+            "u'id'": "u'6'",
+            "u'additionalPrizeTier'": true
+        },
+        {
+            "u'eventId'": "u'89318642'",
+            "u'outcome'": {
+                "u'home'": {
+                    "u'id'": "u'Reading'",
+                    "u'name'": "u'Reading'"
+                },
+                "u'away'": {
+                    "u'id'": "u'Bristol C'",
+                    "u'name'": "u'Bristol C'"
+                }
+            },
+            "u'id'": "u'7'",
+            "u'additionalPrizeTier'": false
+        },
+        {
+            "u'eventId'": "u'89318640'",
+            "u'outcome'": {
+                "u'home'": {
+                    "u'id'": "u'Ipswich'",
+                    "u'name'": "u'Ipswich'"
+                },
+                "u'away'": {
+                    "u'id'": "u'QPR'",
+                    "u'name'": "u'QPR'"
+                }
+            },
+            "u'id'": "u'8'",
+            "u'additionalPrizeTier'": false
+        },
+        {
+            "u'eventId'": "u'89318636'",
+            "u'outcome'": {
+                "u'home'": {
+                    "u'id'": "u'Derby'",
+                    "u'name'": "u'Derby'"
+                },
+                "u'away'": {
+                    "u'id'": "u'Norwich'",
+                    "u'name'": "u'Norwich'"
+                }
+            },
+            "u'id'": "u'9'",
+            "u'additionalPrizeTier'": false
+        },
+        {
+            "u'eventId'": "u'89318638'",
+            "u'outcome'": {
+                "u'home'": {
+                    "u'id'": "u'Brighton'",
+                    "u'name'": "u'Brighton'"
+                },
+                "u'away'": {
+                    "u'id'": "u'Fulham'",
+                    "u'name'": "u'Fulham'"
+                }
+            },
+            "u'id'": "u'10'",
+            "u'additionalPrizeTier'": false
+        },
+        {
+            "u'eventId'": "u'89318747'",
+            "u'outcome'": {
+                "u'home'": {
+                    "u'id'": "u'Brentford'",
+                    "u'name'": "u'Brentford'"
+                },
+                "u'away'": {
+                    "u'id'": "u'Birmingh.'",
+                    "u'name'": "u'Birmingham'"
+                }
+            },
+            "u'id'": "u'11'",
+            "u'additionalPrizeTier'": false
+        },
+        {
+            "u'eventId'": "u'89318639'",
+            "u'outcome'": {
+                "u'home'": {
+                    "u'id'": "u'Wolves'",
+                    "u'name'": "u'Wolverhampton'"
+                },
+                "u'away'": {
+                    "u'id'": "u'Sheff W'",
+                    "u'name'": "u'Sheffield W'"
+                }
+            },
+            "u'id'": "u'12'",
+            "u'additionalPrizeTier'": false
+        }
+    ],
+    "u'name'": "u'Vakio'",
+    "u'jackpots'": [
+        {
+            "u'amount'": 23000000,
+            "u'id'": "u'PRIMARY'",
+            "u'description'": "u'n. 230 000 e.'"
+        }
+    ],
+    "u'gameName'": "u'SPORT'",
+    "u'closeTime'": 1480172280000,
+    "u'reducedSystems'": [
+        {
+            "u'numberOfSingleSelections'": 9,
+            "u'numberOfTripleSelections'": 4,
+            "u'numberOfDoubleSelections'": 0,
+            "u'numberOfRows'": 9,
+            "u'groupId'": "u'1'",
+            "u'id'": "u'R00040009_12'"
+        },
+        {
+            "u'numberOfSingleSelections'": 6,
+            "u'numberOfTripleSelections'": 0,
+            "u'numberOfDoubleSelections'": 7,
+            "u'numberOfRows'": 16,
+            "u'groupId'": "u'1'",
+            "u'id'": "u'R07000016_12'"
+        },
+        {
+            "u'numberOfSingleSelections'": 8,
+            "u'numberOfTripleSelections'": 5,
+            "u'numberOfDoubleSelections'": 0,
+            "u'numberOfRows'": 27,
+            "u'groupId'": "u'1'",
+            "u'id'": "u'R00050027_12'"
+        },
+        {
+            "u'numberOfSingleSelections'": 5,
+            "u'numberOfTripleSelections'": 0,
+            "u'numberOfDoubleSelections'": 8,
+            "u'numberOfRows'": 32,
+            "u'groupId'": "u'1'",
+            "u'id'": "u'R08000032_12'"
+        },
+        {
+            "u'numberOfSingleSelections'": 4,
+            "u'numberOfTripleSelections'": 0,
+            "u'numberOfDoubleSelections'": 9,
+            "u'numberOfRows'": 62,
+            "u'groupId'": "u'1'",
+            "u'id'": "u'R09000062_12'"
+        },
+        {
+            "u'numberOfSingleSelections'": 7,
+            "u'numberOfTripleSelections'": 6,
+            "u'numberOfDoubleSelections'": 0,
+            "u'numberOfRows'": 73,
+            "u'groupId'": "u'1'",
+            "u'id'": "u'R00060073_12'"
+        },
+        {
+            "u'numberOfSingleSelections'": 5,
+            "u'numberOfTripleSelections'": 3,
+            "u'numberOfDoubleSelections'": 5,
+            "u'numberOfRows'": 92,
+            "u'groupId'": "u'1'",
+            "u'id'": "u'R05030092_12'"
+        },
+        {
+            "u'numberOfSingleSelections'": 5,
+            "u'numberOfTripleSelections'": 4,
+            "u'numberOfDoubleSelections'": 4,
+            "u'numberOfRows'": 128,
+            "u'groupId'": "u'1'",
+            "u'id'": "u'R04040128_12'"
+        },
+        {
+            "u'numberOfSingleSelections'": 3,
+            "u'numberOfTripleSelections'": 1,
+            "u'numberOfDoubleSelections'": 9,
+            "u'numberOfRows'": 160,
+            "u'groupId'": "u'1'",
+            "u'id'": "u'R09010160_12'"
+        },
+        {
+            "u'numberOfSingleSelections'": 6,
+            "u'numberOfTripleSelections'": 7,
+            "u'numberOfDoubleSelections'": 0,
+            "u'numberOfRows'": 186,
+            "u'groupId'": "u'1'",
+            "u'id'": "u'R00070186_12'"
+        },
+        {
+            "u'numberOfSingleSelections'": 4,
+            "u'numberOfTripleSelections'": 4,
+            "u'numberOfDoubleSelections'": 5,
+            "u'numberOfRows'": 240,
+            "u'groupId'": "u'1'",
+            "u'id'": "u'R05040240_12'"
+        },
+        {
+            "u'numberOfSingleSelections'": 4,
+            "u'numberOfTripleSelections'": 5,
+            "u'numberOfDoubleSelections'": 4,
+            "u'numberOfRows'": 324,
+            "u'groupId'": "u'1'",
+            "u'id'": "u'R04050324_12'"
+        },
+        {
+            "u'numberOfSingleSelections'": 3,
+            "u'numberOfTripleSelections'": 4,
+            "u'numberOfDoubleSelections'": 6,
+            "u'numberOfRows'": 432,
+            "u'groupId'": "u'1'",
+            "u'id'": "u'R06040432_12'"
+        },
+        {
+            "u'numberOfSingleSelections'": 4,
+            "u'numberOfTripleSelections'": 6,
+            "u'numberOfDoubleSelections'": 3,
+            "u'numberOfRows'": 468,
+            "u'groupId'": "u'1'",
+            "u'id'": "u'R03060468_12'"
+        },
+        {
+            "u'numberOfSingleSelections'": 5,
+            "u'numberOfTripleSelections'": 8,
+            "u'numberOfDoubleSelections'": 0,
+            "u'numberOfRows'": 492,
+            "u'groupId'": "u'1'",
+            "u'id'": "u'R00080492_12'"
+        },
+        {
+            "u'numberOfSingleSelections'": 3,
+            "u'numberOfTripleSelections'": 5,
+            "u'numberOfDoubleSelections'": 5,
+            "u'numberOfRows'": 639,
+            "u'groupId'": "u'1'",
+            "u'id'": "u'R05050639_12'"
+        },
+        {
+            "u'numberOfSingleSelections'": 3,
+            "u'numberOfTripleSelections'": 6,
+            "u'numberOfDoubleSelections'": 4,
+            "u'numberOfRows'": 864,
+            "u'groupId'": "u'1'",
+            "u'id'": "u'R04060864_12'"
+        },
+        {
+            "u'numberOfSingleSelections'": 1,
+            "u'numberOfTripleSelections'": 4,
+            "u'numberOfDoubleSelections'": 8,
+            "u'numberOfRows'": 1296,
+            "u'groupId'": "u'1'",
+            "u'id'": "u'R08041296_12'"
+        },
+        {
+            "u'numberOfSingleSelections'": 4,
+            "u'numberOfTripleSelections'": 9,
+            "u'numberOfDoubleSelections'": 0,
+            "u'numberOfRows'": 1341,
+            "u'groupId'": "u'1'",
+            "u'id'": "u'R00091341_12'"
+        },
+        {
+            "u'numberOfSingleSelections'": 5,
+            "u'numberOfTripleSelections'": 0,
+            "u'numberOfDoubleSelections'": 8,
+            "u'numberOfRows'": 12,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R08000012_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 4,
+            "u'numberOfTripleSelections'": 0,
+            "u'numberOfDoubleSelections'": 9,
+            "u'numberOfRows'": 16,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R09000016_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 7,
+            "u'numberOfTripleSelections'": 6,
+            "u'numberOfDoubleSelections'": 0,
+            "u'numberOfRows'": 17,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R00060017_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 6,
+            "u'numberOfTripleSelections'": 4,
+            "u'numberOfDoubleSelections'": 3,
+            "u'numberOfRows'": 18,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R03040018_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 4,
+            "u'numberOfTripleSelections'": 1,
+            "u'numberOfDoubleSelections'": 8,
+            "u'numberOfRows'": 21,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R08010021_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 5,
+            "u'numberOfTripleSelections'": 3,
+            "u'numberOfDoubleSelections'": 5,
+            "u'numberOfRows'": 23,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R05030023_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 5,
+            "u'numberOfTripleSelections'": 4,
+            "u'numberOfDoubleSelections'": 4,
+            "u'numberOfRows'": 24,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R04040024_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 3,
+            "u'numberOfTripleSelections'": 0,
+            "u'numberOfDoubleSelections'": 10,
+            "u'numberOfRows'": 30,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R10000030_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 6,
+            "u'numberOfTripleSelections'": 7,
+            "u'numberOfDoubleSelections'": 0,
+            "u'numberOfRows'": 34,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R00070034_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 3,
+            "u'numberOfTripleSelections'": 1,
+            "u'numberOfDoubleSelections'": 9,
+            "u'numberOfRows'": 35,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R09010035_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 4,
+            "u'numberOfTripleSelections'": 3,
+            "u'numberOfDoubleSelections'": 6,
+            "u'numberOfRows'": 36,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R06030036_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 5,
+            "u'numberOfTripleSelections'": 5,
+            "u'numberOfDoubleSelections'": 3,
+            "u'numberOfRows'": 36,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R03050036_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 4,
+            "u'numberOfTripleSelections'": 4,
+            "u'numberOfDoubleSelections'": 5,
+            "u'numberOfRows'": 48,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R05040048_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 5,
+            "u'numberOfTripleSelections'": 6,
+            "u'numberOfDoubleSelections'": 2,
+            "u'numberOfRows'": 48,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R02060048_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 5,
+            "u'numberOfTripleSelections'": 7,
+            "u'numberOfDoubleSelections'": 1,
+            "u'numberOfRows'": 54,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R01070054_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 2,
+            "u'numberOfTripleSelections'": 1,
+            "u'numberOfDoubleSelections'": 10,
+            "u'numberOfRows'": 60,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R10010060_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 3,
+            "u'numberOfTripleSelections'": 3,
+            "u'numberOfDoubleSelections'": 7,
+            "u'numberOfRows'": 60,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R07030060_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 4,
+            "u'numberOfTripleSelections'": 5,
+            "u'numberOfDoubleSelections'": 4,
+            "u'numberOfRows'": 64,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R04050064_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 3,
+            "u'numberOfTripleSelections'": 4,
+            "u'numberOfDoubleSelections'": 6,
+            "u'numberOfRows'": 72,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R06040072_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 4,
+            "u'numberOfTripleSelections'": 6,
+            "u'numberOfDoubleSelections'": 3,
+            "u'numberOfRows'": 72,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R03060072_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 5,
+            "u'numberOfTripleSelections'": 8,
+            "u'numberOfDoubleSelections'": 0,
+            "u'numberOfRows'": 81,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R00080081_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 1,
+            "u'numberOfTripleSelections'": 1,
+            "u'numberOfDoubleSelections'": 11,
+            "u'numberOfRows'": 96,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R11010096_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 2,
+            "u'numberOfTripleSelections'": 3,
+            "u'numberOfDoubleSelections'": 8,
+            "u'numberOfRows'": 96,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R08030096_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 3,
+            "u'numberOfTripleSelections'": 5,
+            "u'numberOfDoubleSelections'": 5,
+            "u'numberOfRows'": 108,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R05050108_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 4,
+            "u'numberOfTripleSelections'": 7,
+            "u'numberOfDoubleSelections'": 2,
+            "u'numberOfRows'": 108,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R02070108_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 1,
+            "u'numberOfTripleSelections'": 2,
+            "u'numberOfDoubleSelections'": 10,
+            "u'numberOfRows'": 144,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R10020144_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 3,
+            "u'numberOfTripleSelections'": 6,
+            "u'numberOfDoubleSelections'": 4,
+            "u'numberOfRows'": 144,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R04060144_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 2,
+            "u'numberOfTripleSelections'": 5,
+            "u'numberOfDoubleSelections'": 6,
+            "u'numberOfRows'": 192,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R06050192_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 3,
+            "u'numberOfTripleSelections'": 7,
+            "u'numberOfDoubleSelections'": 3,
+            "u'numberOfRows'": 216,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R03070216_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 4,
+            "u'numberOfTripleSelections'": 9,
+            "u'numberOfDoubleSelections'": 0,
+            "u'numberOfRows'": 222,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R00090222_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 2,
+            "u'numberOfTripleSelections'": 6,
+            "u'numberOfDoubleSelections'": 5,
+            "u'numberOfRows'": 276,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R05060276_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 2,
+            "u'numberOfTripleSelections'": 7,
+            "u'numberOfDoubleSelections'": 4,
+            "u'numberOfRows'": 384,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R04070384_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 2,
+            "u'numberOfTripleSelections'": 3,
+            "u'numberOfDoubleSelections'": 8,
+            "u'numberOfRows'": 432,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R08030432_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 0,
+            "u'numberOfTripleSelections'": 4,
+            "u'numberOfDoubleSelections'": 9,
+            "u'numberOfRows'": 480,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R09040480_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 3,
+            "u'numberOfTripleSelections'": 10,
+            "u'numberOfDoubleSelections'": 0,
+            "u'numberOfRows'": 729,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R00100729_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 2,
+            "u'numberOfTripleSelections'": 11,
+            "u'numberOfDoubleSelections'": 0,
+            "u'numberOfRows'": 729,
+            "u'groupId'": "u'2'",
+            "u'id'": "u'R00110729_11'"
+        },
+        {
+            "u'numberOfSingleSelections'": 5,
+            "u'numberOfTripleSelections'": 4,
+            "u'numberOfDoubleSelections'": 4,
+            "u'numberOfRows'": 10,
+            "u'groupId'": "u'3'",
+            "u'id'": "u'R04040010_10'"
+        },
+        {
+            "u'numberOfSingleSelections'": 3,
+            "u'numberOfTripleSelections'": 1,
+            "u'numberOfDoubleSelections'": 9,
+            "u'numberOfRows'": 12,
+            "u'groupId'": "u'3'",
+            "u'id'": "u'R09010012_10'"
+        },
+        {
+            "u'numberOfSingleSelections'": 4,
+            "u'numberOfTripleSelections'": 3,
+            "u'numberOfDoubleSelections'": 6,
+            "u'numberOfRows'": 12,
+            "u'groupId'": "u'3'",
+            "u'id'": "u'R06030012_10'"
+        },
+        {
+            "u'numberOfSingleSelections'": 5,
+            "u'numberOfTripleSelections'": 5,
+            "u'numberOfDoubleSelections'": 3,
+            "u'numberOfRows'": 12,
+            "u'groupId'": "u'3'",
+            "u'id'": "u'R03050012_10'"
+        },
+        {
+            "u'numberOfSingleSelections'": 6,
+            "u'numberOfTripleSelections'": 7,
+            "u'numberOfDoubleSelections'": 0,
+            "u'numberOfRows'": 12,
+            "u'groupId'": "u'3'",
+            "u'id'": "u'R00070012_10'"
+        },
+        {
+            "u'numberOfSingleSelections'": 2,
+            "u'numberOfTripleSelections'": 0,
+            "u'numberOfDoubleSelections'": 11,
+            "u'numberOfRows'": 16,
+            "u'groupId'": "u'3'",
+            "u'id'": "u'R11000016_10'"
+        },
+        {
+            "u'numberOfSingleSelections'": 3,
+            "u'numberOfTripleSelections'": 2,
+            "u'numberOfDoubleSelections'": 8,
+            "u'numberOfRows'": 16,
+            "u'groupId'": "u'3'",
+            "u'id'": "u'R08020016_10'"
+        },
+        {
+            "u'numberOfSingleSelections'": 4,
+            "u'numberOfTripleSelections'": 4,
+            "u'numberOfDoubleSelections'": 5,
+            "u'numberOfRows'": 16,
+            "u'groupId'": "u'3'",
+            "u'id'": "u'R05040016_10'"
+        },
+        {
+            "u'numberOfSingleSelections'": 3,
+            "u'numberOfTripleSelections'": 3,
+            "u'numberOfDoubleSelections'": 7,
+            "u'numberOfRows'": 22,
+            "u'groupId'": "u'3'",
+            "u'id'": "u'R07030022_10'"
+        },
+        {
+            "u'numberOfSingleSelections'": 3,
+            "u'numberOfTripleSelections'": 4,
+            "u'numberOfDoubleSelections'": 6,
+            "u'numberOfRows'": 24,
+            "u'groupId'": "u'3'",
+            "u'id'": "u'R06040024_10'"
+        },
+        {
+            "u'numberOfSingleSelections'": 4,
+            "u'numberOfTripleSelections'": 6,
+            "u'numberOfDoubleSelections'": 3,
+            "u'numberOfRows'": 24,
+            "u'groupId'": "u'3'",
+            "u'id'": "u'R03060024_10'"
+        },
+        {
+            "u'numberOfSingleSelections'": 5,
+            "u'numberOfTripleSelections'": 8,
+            "u'numberOfDoubleSelections'": 0,
+            "u'numberOfRows'": 27,
+            "u'groupId'": "u'3'",
+            "u'id'": "u'R00080027_10'"
+        },
+        {
+            "u'numberOfSingleSelections'": 1,
+            "u'numberOfTripleSelections'": 0,
+            "u'numberOfDoubleSelections'": 12,
+            "u'numberOfRows'": 28,
+            "u'groupId'": "u'3'",
+            "u'id'": "u'R12000028_10'"
+        },
+        {
+            "u'numberOfSingleSelections'": 1,
+            "u'numberOfTripleSelections'": 1,
+            "u'numberOfDoubleSelections'": 11,
+            "u'numberOfRows'": 32,
+            "u'groupId'": "u'3'",
+            "u'id'": "u'R11010032_10'"
+        },
+        {
+            "u'numberOfSingleSelections'": 2,
+            "u'numberOfTripleSelections'": 3,
+            "u'numberOfDoubleSelections'": 8,
+            "u'numberOfRows'": 32,
+            "u'groupId'": "u'3'",
+            "u'id'": "u'R08030032_10'"
+        },
+        {
+            "u'numberOfSingleSelections'": 0,
+            "u'numberOfTripleSelections'": 0,
+            "u'numberOfDoubleSelections'": 13,
+            "u'numberOfRows'": 42,
+            "u'groupId'": "u'3'",
+            "u'id'": "u'R13000042_10'"
+        },
+        {
+            "u'numberOfSingleSelections'": 2,
+            "u'numberOfTripleSelections'": 5,
+            "u'numberOfDoubleSelections'": 6,
+            "u'numberOfRows'": 54,
+            "u'groupId'": "u'3'",
+            "u'id'": "u'R06050054_10'"
+        },
+        {
+            "u'numberOfSingleSelections'": 3,
+            "u'numberOfTripleSelections'": 7,
+            "u'numberOfDoubleSelections'": 3,
+            "u'numberOfRows'": 54,
+            "u'groupId'": "u'3'",
+            "u'id'": "u'R03070054_10'"
+        },
+        {
+            "u'numberOfSingleSelections'": 4,
+            "u'numberOfTripleSelections'": 9,
+            "u'numberOfDoubleSelections'": 0,
+            "u'numberOfRows'": 54,
+            "u'groupId'": "u'3'",
+            "u'id'": "u'R00090054_10'"
+        },
+        {
+            "u'numberOfSingleSelections'": 3,
+            "u'numberOfTripleSelections'": 8,
+            "u'numberOfDoubleSelections'": 2,
+            "u'numberOfRows'": 72,
+            "u'groupId'": "u'3'",
+            "u'id'": "u'R02080072_10'"
+        },
+        {
+            "u'numberOfSingleSelections'": 2,
+            "u'numberOfTripleSelections'": 8,
+            "u'numberOfDoubleSelections'": 3,
+            "u'numberOfRows'": 108,
+            "u'groupId'": "u'3'",
+            "u'id'": "u'R03080108_10'"
+        },
+        {
+            "u'numberOfSingleSelections'": 3,
+            "u'numberOfTripleSelections'": 10,
+            "u'numberOfDoubleSelections'": 0,
+            "u'numberOfRows'": 108,
+            "u'groupId'": "u'3'",
+            "u'id'": "u'R00100108_10'"
+        }
+    ],
+    "u'brandName'": "u'1'",
+    "u'resultsAvailableTime'": 1480197599000,
+    "u'drawTime'": 1480197599000,
+    "u'rollover'": true,
+    "u'id'": "u'100068'",
+    "u'gameRuleSet'": {
+        "u'oddsType'": "u'VARIABLE'",
+        "u'durations'": [
+            1,
+            2,
+            3,
+            5,
+            10
+        ],
+        "u'maxPrice'": 1000000,
+        "u'quickPickAvailable'": true,
+        "u'basePrice'": 25,
+        "u'additionalPrizeTierPrice'": 25,
+        "u'additionalPrizeTierAvailable'": true
+    }
+}
